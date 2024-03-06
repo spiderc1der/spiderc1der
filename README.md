@@ -1,5 +1,5 @@
 - hi, i’m @spiderc1der! i'm a CS student at RIT 🐅
-- i'm seeking a spring/summer 2024 co-op!
+- i'm seeking a summer/fall 2024 co-op!
 - my personal projects focus on helping users improve their experience 😊
 - i mostly work with Java & Javascript, though i have experience with C, C# & Python
 - currently working on my "Pet Finder" web application, a tool for the virtual pet forum game, "Chicken Smoothie" 💻 
